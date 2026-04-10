@@ -7,6 +7,8 @@
 
 ![Larapanda](larapanda.png)
 
+Language versions: [English](README.md) | [Türkçe](README.TR.md)
+
 Larapanda is a type-safe Lightpanda SDK for Laravel and plain PHP applications. It provides named instance profiles, runtime resolution (`auto`, `cli`, `docker`), and immutable method-scoped option objects for `fetch`, `serve`, and `mcp`.
 
 ## Installation
@@ -397,18 +399,6 @@ LIGHTPANDA_HTTP_PROXY=http://127.0.0.1:3000 \
 LIGHTPANDA_PROXY_BEARER_TOKEN=YOUR_TOKEN \
 php vendor/bin/pest --group=live
 ```
-
-## Changelog
-
-See [CHANGELOG](CHANGELOG.md) for the release history and behavioral changes.
-
-## Contributing
-
-See [CONTRIBUTING](CONTRIBUTING.md) for contribution workflow and standards.
-
-## Security Vulnerabilities
-
-See [Security Policy](../../security/policy) for vulnerability reporting procedures.
 
 ## Credits
 
