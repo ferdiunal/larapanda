@@ -1,0 +1,12 @@
+includes:
+    - phpstan-baseline.neon
+
+parameters:
+    level: 9
+    paths:
+        - src
+        - config
+        - database
+    bootstrapFiles:
+        - stubs/phpstan-laravel-ai-mcp.php
+    tmpDir: build/phpstan
