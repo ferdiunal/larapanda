@@ -2,6 +2,10 @@
 
 All notable changes to `larapanda` will be documented in this file.
 
+## v1.0.0 - 2026-04-10
+
+**Full Changelog**: https://github.com/ferdiunal/larapanda/commits/v1.0.0
+
 ## 1.0.0 - 2026-04-10
 
 ### Added
